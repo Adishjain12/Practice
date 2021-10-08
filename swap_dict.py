@@ -1,4 +1,4 @@
-#Swap values
+#Swap keys and values
 #You can easily swap the key,dictionary pairs in Python, with a one liner.
 
 #dict = {value:key for key, value in dict.items()}
