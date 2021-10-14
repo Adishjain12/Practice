@@ -1,3 +1,5 @@
+#Python program to print Fibonacci series program in using Iterative methods
+
 first,second=0,1
 n = int(input("please give a number for fibonacci series : "))
 print("fibonacci series are : ")
@@ -9,3 +11,11 @@ for i in range(0,n):
       first = second;
       second = result;
     print(result)
+    
+#Output:    
+#please give a number for fibonacci series : 5
+#0
+#1
+#1
+#2
+#3
